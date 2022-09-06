@@ -67,9 +67,3 @@ Welcome to my profile! I'm [Jhensen Aquino](https://github.com/jhensena).
   <img alt="Webpack" src="assets/webpack.png" height="50px" />
   </div>
 </div>
-<style>
-  .skills-area {
-    font-size: 30px;
-    line-height: 50px;
-  }
-</style>
