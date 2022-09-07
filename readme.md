@@ -11,7 +11,7 @@ Welcome to my profile! I'm [Jhensen Aquino](https://github.com/jhensena).
 - 💡 Passionate about providing a good solution
 - ⏲️💪 Always build the best products within a given timeline and with minimum effort
 
-### Techincal stacks and tools I use:
+### Technical stacks and tools I use:
 
 <div>
   <div class="skills-area">
